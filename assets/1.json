@@ -1,0 +1,27 @@
+{
+  "name": "Fire Lord Ozai",
+  "symbol": "MH",
+  "description": "Mark Hamill Characters Collection of 3 on the blockchain. This is Fire Lord Ozai.",
+  "seller_fee_basis_points": 500,
+  "image": "1.png",
+  "attributes": [
+    {"trait_type": "laughter", "value": "5"},
+    {"trait_type": "evilness", "value": "8"}, 
+    {"trait_type": "insanity", "value": "5"},
+    {"trait_type": "power", "value": "7"}
+],
+  "properties": {
+    "files": [{
+      "uri": "1.png",
+      "type": "image/png"
+    }],
+    "creators": [{
+      "address": "3HawFoaXNgYEDy4DrPWohiWDfQEKyaMpZhfMEHMt69Lg",
+      "share": 100
+    }]
+  },
+  "collection": {
+    "name": "Mark Hamill Characters Collection",
+    "family": "Mark Hamill Characters Collection"
+  }
+}

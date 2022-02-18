@@ -1,0 +1,27 @@
+{
+  "name": "Joker",
+  "symbol": "MH",
+  "description": "Mark Hamill Characters Collection of 3 on the blockchain. This is Joker.",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "attributes": [
+    {"trait_type": "laughter", "value": "10"},
+    {"trait_type": "evilness", "value": "10"}, 
+    {"trait_type": "insanity", "value": "10"},
+    {"trait_type": "power", "value": "4"}
+],
+  "properties": {
+    "files": [{
+      "uri": "0.png",
+      "type": "image/png"
+    }],
+    "creators": [{
+      "address": "3HawFoaXNgYEDy4DrPWohiWDfQEKyaMpZhfMEHMt69Lg",
+      "share": 100
+    }]
+  },
+  "collection": {
+    "name": "Mark Hamill Characters Collection",
+    "family": "Mark Hamill Characters Collection"
+  }
+}

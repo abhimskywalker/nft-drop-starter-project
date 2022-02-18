@@ -1,0 +1,27 @@
+{
+  "name": "Skeletor",
+  "symbol": "MH",
+  "description": "Mark Hamill Characters Collection of 3 on the blockchain. This is Skeletor.",
+  "seller_fee_basis_points": 500,
+  "image": "2.png",
+  "attributes": [
+    {"trait_type": "laughter", "value": "8"},
+    {"trait_type": "evilness", "value": "10"}, 
+    {"trait_type": "insanity", "value": "7"},
+    {"trait_type": "power", "value": "10"}
+],
+  "properties": {
+    "files": [{
+      "uri": "2.png",
+      "type": "image/png"
+    }],
+    "creators": [{
+      "address": "3HawFoaXNgYEDy4DrPWohiWDfQEKyaMpZhfMEHMt69Lg",
+      "share": 100
+    }]
+  },
+  "collection": {
+    "name": "Mark Hamill Characters Collection",
+    "family": "Mark Hamill Characters Collection"
+  }
+}
